@@ -8,7 +8,7 @@ export function Navbar() {
                 <img src={logo} alt="Logo da loja DSA" />
 
                 <div className="iconemenu">
-                    <ul><i className="bi bi-list"></i>
+                    <ul><i className="bi bi-list text-dark"></i>
                         {/* <li><a href="#"><i>Perfil</i></a></li>
                         <li><a href="#"><i>Pagamento</i></a></li>
                         <li><a href="#"><i>Rastrear</i></a></li>
