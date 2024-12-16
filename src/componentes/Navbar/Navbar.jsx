@@ -27,6 +27,8 @@ export function Navbar() {
 
                 <Button>Entrar</Button>
             </Nav>
+
+            <></>
         </>
     );
 }
